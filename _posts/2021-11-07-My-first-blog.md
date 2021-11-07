@@ -1,5 +1,5 @@
 ---
-layout:article
+layout: article
 title: "My first blog"
 ---
 # markdown
