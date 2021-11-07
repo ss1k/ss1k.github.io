@@ -3,6 +3,7 @@ layout: article
 title: "My first blog"
 ---
 # markdown
+<!--more-->
 ## 一、font
 *斜体*
 **加粗**
