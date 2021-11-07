@@ -1,6 +1,6 @@
 ---
 layout:article
-title: My first blog
+title: "My first blog"
 ---
 # markdown
 ## 一、font
